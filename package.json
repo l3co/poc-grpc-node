@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/l3costa/poc-grpc-node/issues"
   },
-  "homepage": "https://github.com/l3costa/poc-grpc-node#readme"
+  "homepage": "https://github.com/l3costa/poc-grpc-node#readme",
+  "dependencies": {
+    "grpc": "^1.24.11"
+  }
 }
